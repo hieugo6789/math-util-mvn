@@ -4,3 +4,8 @@
 * Coming soon...
 
 #### Copyright &#169; 2023 minh
+
+git add * 
+git commit -m "lí do sửa"
+
+git push
